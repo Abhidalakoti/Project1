@@ -20,7 +20,7 @@ def who_am_i(name):
     tts('You are ' + name + ', a brilliant person. I love you!')
 
 def where_born():
-    tts('I was created by a magician named Tanay, in India, the magical land of himalayas.')
+    tts('I was created by a magician named Abhinav, in India, the magical land of Ganges.')
 
 def how_are_you():
     tts('I am fine, thank you.')
