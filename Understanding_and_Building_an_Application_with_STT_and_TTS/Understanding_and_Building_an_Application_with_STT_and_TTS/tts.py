@@ -12,4 +12,4 @@ def tts(message):
         tts_engine = 'espeak'
         return os.system(tts_engine + ' "' + message + '"')
 
-tts('Hey there, greetings from Tanay')
+tts('Hey there, greetings from Abhinav')
